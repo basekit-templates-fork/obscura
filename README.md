@@ -1,4 +1,4 @@
-sarasota
+Obscura
 ========
 
-Standard template
+Standard template forked from Sarasota

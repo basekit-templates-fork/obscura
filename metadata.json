@@ -1,13 +1,13 @@
 {
-	"name":"Sarasota",
+	"name":"Obscura",
 	"thumbnail":"thumbnail.png",
 	"screenshot":"thumbnail.png",
     "templateType":"standard",
 	"pageTypes":[
-		"default",
 		"home"
 	],
 	"images":[
+        "images/feature-bg.jpg",
         "images/image-1.jpg",
         "images/image-2.jpg"
     ],
@@ -18,7 +18,7 @@
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#363636",
-            "color3":"#4BA096",
+            "color3":"#ee4d83",
             "color4":"#777777",
             "color5":"#a9a9a9",
             "color6":"#191919",
@@ -27,7 +27,7 @@
         "Swatch 2": {
             "color1":"#ffffff",
             "color2":"#4e1f1f",
-            "color3":"#ffffff",
+            "color3":"#6f56a3",
             "color4":"#ab4343",
             "color5":"#cf8484",
             "color6":"#240e0e",
@@ -64,7 +64,7 @@
     "fontSwatch": {
        "title": "Lato",
         "font1": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
             "font-size": "34px",
             "font-weight": "700",
             "line-height": "44px",
@@ -72,7 +72,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
             "font-size": "24px",
             "font-weight": "300",
             "line-height": "34px",
@@ -80,7 +80,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "24px",
             "font-weight": "400",
             "line-height": "34px",
@@ -88,7 +88,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
             "font-size": "15px",
             "font-weight": "600",
             "line-height": "25px",
@@ -96,7 +96,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "15px",
             "font-weight": "400",
             "line-height": "25px",
@@ -104,7 +104,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "25px",
@@ -115,7 +115,7 @@
             "background-color-hover": "@color-swatch2"
          },
         "font7": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "15px",
             "font-weight": "400",
             "line-height": "25px",
@@ -126,7 +126,7 @@
             "background-color-hover": "@color-swatch1"
         },
         "font8": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "32px",
             "font-weight": "700",
             "line-height": "42px",
@@ -134,7 +134,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "24px",
             "font-weight": "400",
             "line-height": "34px",
@@ -142,9 +142,9 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
             "font-size": "20px",
-            "font-weight": "700",
+            "font-weight": "200",
             "line-height": "30px",
             "color": "@color-swatch2",
             "letter-spacing": "inherit"
