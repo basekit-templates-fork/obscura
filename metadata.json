@@ -1,68 +1,78 @@
 {
-	"name":"Obscura",
-	"thumbnail":"thumbnail.png",
-	"screenshot":"thumbnail.png",
-    "templateType":"standard",
-	"pageTypes":[
-		"home"
-	],
-	"images":[
+    "name": "Obscura",
+    "thumbnail": "thumbnail.png",
+    "screenshot": "obscura-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
+    "images": [
         "images/feature-bg.jpg",
         "images/image-1.jpg",
         "images/image-2.jpg"
     ],
-	"tags": {
-		"en": ["minimal", "clean", "photography", "modern", "website", "creative", "unique", "media", "sans-serif"]
-	},
-	"colorSwatches": {
+    "tags": {
+        "en": [
+            "minimal",
+            "clean",
+            "photography",
+            "modern",
+            "website",
+            "creative",
+            "unique",
+            "media",
+            "sans-serif"
+        ]
+    },
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#363636",
-            "color3":"#ee4d83",
-            "color4":"#777777",
-            "color5":"#a9a9a9",
-            "color6":"#191919",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#363636",
+            "color3": "#ee4d83",
+            "color4": "#777777",
+            "color5": "#a9a9a9",
+            "color6": "#191919",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#4e1f1f",
-            "color3":"#6f56a3",
-            "color4":"#ab4343",
-            "color5":"#cf8484",
-            "color6":"#240e0e",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#4e1f1f",
+            "color3": "#6f56a3",
+            "color4": "#ab4343",
+            "color5": "#cf8484",
+            "color6": "#240e0e",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#264744",
-            "color3":"#ffffff",
-            "color4":"#529c95",
-            "color5":"#8fc4bf",
-            "color6":"#122120",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#264744",
+            "color3": "#ffffff",
+            "color4": "#529c95",
+            "color5": "#8fc4bf",
+            "color6": "#122120",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#4b3d52",
-            "color3":"#ffffff",
-            "color4":"#897196",
-            "color5":"#b4a5bc",
-            "color6":"#2f2734",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#4b3d52",
+            "color3": "#ffffff",
+            "color4": "#897196",
+            "color5": "#b4a5bc",
+            "color6": "#2f2734",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#26384f",
-            "color3":"#ffffff",
-            "color4":"#4f75a6",
-            "color5":"#8da7c9",
-            "color6":"#141d29",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#26384f",
+            "color3": "#ffffff",
+            "color4": "#4f75a6",
+            "color5": "#8da7c9",
+            "color6": "#141d29",
+            "color7": "#ffffff"
         }
     },
     "fontSwatch": {
-       "title": "Lato",
+        "title": "Lato",
         "font1": {
             "font-family": "\"Montserrat\", \"Trebuchet MS\", Helvetica, sans-serif",
             "font-size": "34px",
@@ -113,7 +123,7 @@
             "color-hover": "lighten(@color-swatch6, 40%)",
             "background-color": "@color-swatch2",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "15px",
